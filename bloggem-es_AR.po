@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: BlogGem 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/bloggem\n"
 "POT-Creation-Date: 2019-07-06T14:26:23+00:00\n"
-"PO-Revision-Date: 2022-01-28 17:13-0300\n"
+"PO-Revision-Date: 2022-01-28 18:22-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_AR\n"
@@ -67,6 +67,8 @@ msgid ""
 "It looks like nothing was found at this location. Maybe try one of the links "
 "below or a search?"
 msgstr ""
+"No se ha encontrado nada en esta ubicación. Intenta con uno de los vínculos "
+"a continuación o realiza una búsqueda."
 
 #: 404.php:58
 msgid "Most Used Categories"
@@ -234,7 +236,7 @@ msgstr ""
 #. Translators: %s is the search query.
 #: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:270
 msgid "Search results for: %s"
-msgstr ""
+msgstr "Resultados de la búsqueda: %s"
 
 #. Translators: %s is the page number.
 #: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:272
@@ -302,13 +304,13 @@ msgstr ""
 #: inc/template-tags.php:29
 msgctxt "post date"
 msgid "Posted on %s"
-msgstr ""
+msgstr "Publicado el  %s"
 
 #. translators: %s: post author.
 #: inc/template-tags.php:45
 msgctxt "post author"
 msgid "by %s"
-msgstr ""
+msgstr "por %s"
 
 #. translators: used between list items, there is a space after the comma
 #: inc/template-tags.php:62
@@ -318,7 +320,7 @@ msgstr ""
 #. translators: 1: list of categories.
 #: inc/template-tags.php:65
 msgid "Posted in %1$s"
-msgstr ""
+msgstr "Publicado en %1$s"
 
 #. translators: used between list items, there is a space after the comma
 #: inc/template-tags.php:69
@@ -329,7 +331,7 @@ msgstr ""
 #. translators: 1: list of tags.
 #: inc/template-tags.php:72
 msgid "Tagged %1$s"
-msgstr ""
+msgstr "Etiquetas %1$s"
 
 #. translators: %s: post title
 #: inc/template-tags.php:82
@@ -389,11 +391,11 @@ msgstr ""
 #. translators: %s: search query.
 #: search.php:22
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Resultados de la búsqueda: %s"
 
 #: template-parts/content-none.php:14
 msgid "Nothing Found"
-msgstr ""
+msgstr "No se encontraron resultados"
 
 #. translators: 1: link to WP admin new post page.
 #: template-parts/content-none.php:24
@@ -406,6 +408,8 @@ msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
+"Lo lamentamos, no se encontraron resultados con los términos ingresados. Por "
+"favor intenta nuevamente con otras palabras."
 
 #: template-parts/content-none.php:44
 msgid ""
@@ -441,4 +445,4 @@ msgstr ""
 
 #: searchform.php:2
 msgid "Search&hellip;"
-msgstr ""
+msgstr "Buscar&hellip;"
